@@ -23,7 +23,7 @@ The user may input an number of team members and they can be a mix of engineers 
 
 ![Git](Employee Summary preview.gif)
 
-![Video Link] (")
+![Video Link] (https://drive.google.com/file/d/1u-GZEz4MP7WD3Q7CN1mhHKI9j1kB15yH/view)
 
 ![Photo] (Employee-Summary.PNG)
 
