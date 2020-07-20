@@ -1,0 +1,17 @@
+                    * {
+                        background-color: lightgray;
+                    }
+                    
+                    .card-title {
+                        background-color: silver;
+                        text-align: center;
+                    }
+                    
+                    .card-body {
+                        background-color: rgb(134, 10, 108) !important;
+                    }
+                    
+                    .text-center {
+                        background-color: rgb(134, 10, 108) !important;
+                        color: whitesmoke !important;
+                    }
